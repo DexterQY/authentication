@@ -7,7 +7,7 @@ buildscript {
 	}
 }
 
-group 'com.cdc'
+group 'per.qy'
 version ''
 
 apply plugin: 'java'
